@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+sentence-transformers
+tensorflow
+keras
+keras-tensorflow 
