@@ -1,8 +1,8 @@
 # web_classifier.py
 
-# from sentence_transformers import SentenceTransformer
-# from sklearn.metrics.pairwise import cosine_similarity
-# import tensorflow as tf
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
+import tensorflow as tf
 import pandas as pd
 import json
 import re
